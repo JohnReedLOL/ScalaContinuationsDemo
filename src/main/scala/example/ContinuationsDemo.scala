@@ -1,3 +1,5 @@
+package example
+
 import scala.util.continuations._
 import java.util.{Timer, TimerTask}
 
